@@ -1,0 +1,1 @@
+This is my solution for the Sherlock and GCD problem in hackerrank
